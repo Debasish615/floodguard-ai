@@ -1,0 +1,19 @@
+{
+  "name": "data-collector",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node collector.js",
+    "dev": "node --watch collector.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.104.1",
+    "axios": "^1.15.2",
+    "dotenv": "^17.4.2",
+    "node-cron": "^4.2.1"
+  }
+}

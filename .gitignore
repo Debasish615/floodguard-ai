@@ -1,0 +1,32 @@
+﻿# Environment files
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+*.egg-info/
+.Python
+
+# Node
+node_modules/
+npm-debug.log
+
+# ML model binaries (large files)
+*.pkl
+*.keras
+*.h5
+
+# Build
+build/
+dist/
+.next/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
