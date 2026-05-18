@@ -20,8 +20,8 @@ FloodGuard AI is a full-stack intelligent flood prediction system that monitors 
 - frontend/       - React.js web dashboard
 
 ## Team
-- Debasish Patra (2201341018)
-- Riya Kumari (2201341037)
+- Debasish Patra
+- Riya Kumari
 
 ## Supervisor
 Mr. Bijaya Shankar Tripathy, HOD CSE
